@@ -1,16 +1,9 @@
-# dicee
+# Dicee
 
-Simple application that lets user roll dice
+Simple cross-platform application that lets the user roll two dice. The app was developed using Dart and Flutter. 
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-01-29 at 10 50 59](https://user-images.githubusercontent.com/90746623/215341974-48283b90-16c5-4eab-b1fc-9e46a77c1a11.png)
+![Screenshot 2023-01-29 at 10 51 12](https://user-images.githubusercontent.com/90746623/215341976-46d548e0-3a45-4586-b025-69bbdb4afb0a.png)
